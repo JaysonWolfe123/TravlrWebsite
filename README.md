@@ -1,1 +1,3 @@
 # TravlrWebsite
+
+I liked using the Javascript and SPA more than HTML for front end development. I just felt like I had more control over the way it functioned. JSON ties both the front end and back end together by allowing them a file type that they can both access and communicate with. Learning how to actually change a website with code was what I learned from this course. I really enjoyed working on the work for this course even though it could get a bit tricky sometimes. As this is my first web development class I really enjoyed it and am looking at maybe doing more with web development for my career. 
